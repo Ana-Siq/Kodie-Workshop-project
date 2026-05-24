@@ -259,7 +259,7 @@ export default function Index() {
             <div>
               <h4 className="font-bold text-lg mb-4">Redes Sociais</h4>
               <div className="flex gap-4">
-                <a href="#" className="text-white/70 hover:text-white transition-colors">
+                <a href="https://www.linkedin.com/in/ana-paula-siqueira/" className="text-white/70 hover:text-white transition-colors">
                   LinkedIn
                 </a>
                 <a href="#" className="text-white/70 hover:text-white transition-colors">
