@@ -254,7 +254,7 @@ export default function Index() {
             <div>
               <h4 className="font-bold text-lg mb-4">Contato</h4>
               <p className="text-white/70 mb-2">Email: contato@workshoptech.com</p>
-              <p className="text-white/70">Tel: (11) 9999-9999</p>
+              <p className="text-white/70">Tel: (21) 9999-9999</p>
             </div>
             <div>
               <h4 className="font-bold text-lg mb-4">Redes Sociais</h4>
@@ -272,13 +272,13 @@ export default function Index() {
             </div>
             <div>
               <h4 className="font-bold text-lg mb-4">Localização</h4>
-              <p className="text-white/70">São Paulo, SP</p>
+              <p className="text-white/70">Rio de Janeiro, RJ</p>
               <p className="text-white/70 text-sm mt-2">A definir com os inscritos</p>
             </div>
           </div>
 
           <div className="border-t border-white/10 pt-8 text-center text-white/50">
-            <p>&copy; 2024 Workshop de Tecnologia. Todos os direitos reservados.</p>
+            <p>&copy; 2026 Workshop de Tecnologia. Todos os direitos reservados.Criado por Ana Paula Siqueira.</p>
           </div>
         </div>
       </section>
