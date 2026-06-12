@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🚀 Kodie Workshop Project
 
 Aplicação web moderna desenvolvida com foco em performance, escalabilidade e experiência do usuário, utilizando tecnologias atuais do ecossistema JavaScript/TypeScript.
